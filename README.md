@@ -12,10 +12,10 @@ While doing some EDA we found that 5 observations are outliers and can be remove
 The data set occupies the size of 1.49 MB.
 
 **PROPOSED SOLUTION**
-The data set is created for building the regression model. 
+The data set is created for building the regression model.A simple model can be built by using only few variables.A complicated model can be built using any number of variables.
 
 **BENCHMARK MODEL**
 A naive benchmark model would be the linear regression model.
 
 **PERFORMANCE METRIC**
-The accuracy of the model can be assessed using 
+We can assess the accuracy of the model using Mean Square Error(MSE),Mean Absolute deviation.
