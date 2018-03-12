@@ -17,7 +17,7 @@ The data set occupies the size of 1.49 MB.
 
 **PROPOSED SOLUTION**
 
-The data set is created for building the regression model.A simple model can be built by using only few variables.A complicated model can be built using any number of variables.
+The data set is created for building the regression model.A simple model can be built by using atleast six variables.A complicated model can be built using any number of variables.The simple model target a minimum R2 value of 73% as per the literature cited.
 
 **BENCHMARK MODEL**
 
